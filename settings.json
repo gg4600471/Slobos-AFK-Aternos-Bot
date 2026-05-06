@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
@@ -42,14 +42,14 @@
     "max-reconnect-delay": 120000
   },
   "movement": {
-    "enabled": false,
+    "enabled": true,
     "circle-walk": {
       "enabled": false,
       "radius": 4,
       "speed": 3000
     },
     "look-around": {
-      "enabled": false,
+      "enabled": true,
       "interval": 5000
     },
     "random-jump": {
